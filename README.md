@@ -1,6 +1,6 @@
 # 📊 Building Energy Consumption Analysis
 
-![Project Image](https://drive.google.com/file/d/1_5sUulGfJ2uiHezTM6B_9z0RUmzK53PY/view?usp=drive_link) <!-- You can upload an image (e.g., a sample plot from your notebook) to make your README more appealing -->
+![Project Image](https://drive.google.com/uc?export=view&id=1_5sUulGfJ2uiHezTM6B_9z0RUmzK53PY) <!-- You can upload an image (e.g., a sample plot from your notebook) to make your README more appealing -->
 
 ## 📝 Project Overview
 
@@ -32,13 +32,13 @@ This project analyzes building energy consumption across different regions and b
 Here are some of the visualizations from the analysis:
 
 - **Energy Consumption per Floor Area by Region and Building Type**:
-  ![Heatmap](https://drive.google.com/file/d/1pTUcFnKci9YtVrJyt3RJzcJwH-Z6EoY8/view?usp=sharing)
+  ![Heatmap](https://drive.google.com/uc?export=view&id=1pTUcFnKci9YtVrJyt3RJzcJwH-Z6EoY8)
 
 - **Correlation between Floor Area, Occupancy Rates, and Energy Consumption**:
-  ![Correlation Matrix](https://drive.google.com/file/d/1g-1nPMx_l4SXADv0Xpg8NrWfEs7o5XpD/view?usp=sharing)
+  ![Correlation Matrix](https://drive.google.com/uc?export=view&id=1g-1nPMx_l4SXADv0Xpg8NrWfEs7o5XpD)
 
 - **Energy Consumption Trends by Region and Building Type Over Time**:
-  ![Energy Consumption Trends](https://drive.google.com/file/d/1WzLlvGVlJE2zbpn8quDvcfzhK8b4bhD9/view?usp=sharing)
+  ![Energy Consumption Trends](https://drive.google.com/uc?export=view&id=1WzLlvGVlJE2zbpn8quDvcfzhK8b4bhD9)
 
 ## 🛠️ Data Preprocessing
 The data preprocessing steps include:
